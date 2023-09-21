@@ -1,0 +1,15 @@
+npm i -g nodemon --save-dev
+(Install nodemon module globally)
+
+npm i nodemon -D (Add nodemon as Dev dependency)
+
+sample json
+{
+  "user":"Abhishek",
+  "pwd":"@12789SW"
+}
+
+npm i dotenv jsonwebtoken cookie-parser
+
+(for creating access token using default module called crypto. run the below command in node)
+require('crypto').randomBytes(64).toString('hex') 

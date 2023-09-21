@@ -1,0 +1,9 @@
+2023May		14:06:50	64b13711-4b99-4513-9bd4-773b5dc125c3	undefined	fsPromises.readFil is not a function
+2023May		18:44:09	9e9e77f8-8f9b-44dc-8eac-e2752874063f	Error: Not allowed by CORS
+2023May		18:44:32	995e64cf-3f12-4e72-a827-c9ae0fdce3f1	Error: Not allowed by CORS
+2023May		20:02:21	13398cd3-41aa-42ca-8a19-f26209745821	ReferenceError: req is not defined
+2023May		13:24:51	60bdc2ab-b504-43bf-a97e-47519e9517ee	TypeError: Cannot read properties of undefined (reading 'jwt')
+2023May		13:25:34	5436c71d-3594-4700-aabf-50e3957b3d27	TypeError: Cannot read properties of undefined (reading 'jwt')
+2023May		13:31:31	9a436471-5661-4d82-8b92-462b0134079b	Error: Cannot set headers after they are sent to the client
+2023May		14:21:49	808aae05-6310-4fe8-b911-3f6eec15fe6b	Error: Cannot set headers after they are sent to the client
+2023May		14:22:14	1d1576f6-3349-47f5-8406-9b7e84466e3a	Error: Cannot set headers after they are sent to the client
